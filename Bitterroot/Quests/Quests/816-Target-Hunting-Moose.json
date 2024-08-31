@@ -1,0 +1,80 @@
+{
+  "ConfigVersion": 22,
+  "ID": 816,
+  "Type": 1,
+  "Title": "Hunting Moose",
+  "Descriptions": [
+    "Moose are getting out of control coming out of the mountains and scaring the town folk\r\n\r\nKill me a Moose with your Crossbow and a Hunting Bolt",
+    "Kill a Moose with Crossbow\r\n",
+    "Kill a Moose with Crossbow\r\n"
+  ],
+  "ObjectiveText": "Kill a Moose with Crossbow",
+  "FollowUpQuest": 813,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Crossbow_Autumn",
+      "Amount": 1
+    },
+    {
+      "ClassName": "Ammo_HuntingBolt",
+      "Amount": 20
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteUSD",
+      "Amount": 800,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 46,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 26,
+      "ObjectiveType": 2
+    }
+  ],
+  "QuestColor": -8355840,
+  "ReputationReward": 300,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+      811
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 23,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 4 White Wolves with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6284.81,
+        223.69,
+        6042.64
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 4,
+    "ClassNames": [
+        "Animal_CanisLupus_White"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

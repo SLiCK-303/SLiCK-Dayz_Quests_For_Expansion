@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 26,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Moose with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4660.68,
+        210.8,
+        5202.34
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "MF_Moose"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

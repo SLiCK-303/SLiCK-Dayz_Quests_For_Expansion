@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 51,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Change lock on a vehicle:",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ExpansionActionChangeVehicleLock"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

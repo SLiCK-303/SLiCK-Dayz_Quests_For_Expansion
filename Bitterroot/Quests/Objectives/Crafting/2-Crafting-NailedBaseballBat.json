@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Craft a Nailed Baseball Bat:",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "NailedBaseballBat"
+    ],
+    "ExecutionAmount": 1
+}

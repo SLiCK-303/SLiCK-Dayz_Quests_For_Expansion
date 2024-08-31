@@ -1,0 +1,78 @@
+{
+  "ConfigVersion": 22,
+  "ID": 810,
+  "Type": 1,
+  "Title": "Hunting Deer",
+  "Descriptions": [
+    "Howdy, Partner! That crossbow looks mighty dangerous in your hands… Just point it away from me… That's better. Greg liked his crossbows to have a hair trigger.\r\n\r\nAlrighty, let's get you warmed up on that there crossbow.\r\n\r\nNow, the secret to a pristine pelt, is a bolt in good condition, not damaged at all, and a shot through the heart.\r\n",
+    "Kill 5 Deer with Crossbow\r\nAcquire a pristine Deer pelt\r\n",
+    "Kill 5 Deer with Crossbow\r\nAcquire a pristine Deer pelt\r\n"
+  ],
+  "ObjectiveText": "Kill Deer to collect Pelt",
+  "FollowUpQuest": 812,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Crossbow_Autumn",
+      "Amount": 1
+    },
+    {
+      "ClassName": "Ammo_HuntingBolt",
+      "Amount": 20
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 400,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 20,
+      "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 20,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": -8355840,
+  "ReputationReward": 150,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

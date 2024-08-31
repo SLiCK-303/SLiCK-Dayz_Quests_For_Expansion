@@ -1,0 +1,29 @@
+{
+    "ConfigVersion": 28,
+    "ID": 22,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Doe with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1776.0,
+        626.2,
+        5255.7
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_CapreolusCapreolusF",
+        "Animal_CervusElaphusF"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

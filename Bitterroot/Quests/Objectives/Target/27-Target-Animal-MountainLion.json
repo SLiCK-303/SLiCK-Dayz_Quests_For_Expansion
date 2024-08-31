@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 27,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Mountain Lion with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11269.0,
+        496.5,
+        4955.4
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "MF_MountainLion"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,29 @@
+{
+    "ConfigVersion": 28,
+    "ID": 21,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Buck with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1709.0,
+        653.1,
+        1785.9
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_CapreolusCapreolus",
+        "Animal_CervusElaphus"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

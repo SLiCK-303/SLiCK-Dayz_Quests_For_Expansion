@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 6,
+    "ID": 1,
+    "ClassName": "ExpansionQuestNPCAIDenis",
+    "Position": [
+        8407.47,
+        159.761,
+        2360.2
+    ],
+    "Orientation": [
+        160.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Peter",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [
+        [
+            8407.47,
+            159.761,
+            2360.2
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "TraderGroup",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

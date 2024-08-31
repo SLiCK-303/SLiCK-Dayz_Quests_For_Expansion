@@ -1,0 +1,80 @@
+{
+  "ConfigVersion": 22,
+  "ID": 813,
+  "Type": 1,
+  "Title": "Hunting Wolf",
+  "Descriptions": [
+    "Howdy, Partner, am I glad to see you!\r\n\r\nI've had a special request for some pest control, but of the wolf variety.\r\n\r\nThere's been a pack of particularly vicious wolves terrorising the folks of the Bitterroot Country Club and this pack is led by the legendary Silver Ghost, a white wolf.\r\n\r\nIf you can wipe out the entire pack, you be doing the people of Bitterwood a great service, but taking out the Ghost, their leader should be enough to scatter the rest.\r\n\r\nBring me the white pelt and I'll pay you $600.\r\n\r\nStraight shots, Partner!\r\n",
+    "Kill a White Wolf with Crossbow\r\nAcquire a pristine White Wolf pelt\r\n",
+    "Kill a White Wolf with Crossbow\r\nAcquire a pristine White Wolf pelt\r\n"
+  ],
+  "ObjectiveText": "Kill a White Wolf to collect Pelt",
+  "FollowUpQuest": 815,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Crossbow_Autumn",
+      "Amount": 1
+    },
+    {
+      "ClassName": "Ammo_HuntingBolt",
+      "Amount": 20
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 600,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 23,
+      "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 23,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": -8355840,
+  "ReputationReward": 200,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+      814
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

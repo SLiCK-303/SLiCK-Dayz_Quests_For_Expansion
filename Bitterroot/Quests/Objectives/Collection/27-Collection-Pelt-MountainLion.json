@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 27,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Skin a Mountain Lion, bring back the pelt to Peter at the Trader.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "MountainLion_Pelt",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

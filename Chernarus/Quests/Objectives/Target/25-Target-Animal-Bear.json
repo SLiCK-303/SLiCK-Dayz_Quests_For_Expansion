@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 25,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Black Bear with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4438.0,
+        362.5,
+        10883.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_UrsusArctos"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

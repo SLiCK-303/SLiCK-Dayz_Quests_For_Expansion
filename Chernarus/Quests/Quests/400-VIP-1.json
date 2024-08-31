@@ -1,0 +1,64 @@
+{
+  "ConfigVersion": 22,
+  "ID": 400,
+  "Type": 1,
+  "Title": "Lost VIP",
+  "Descriptions": [
+    "This dumb ass got seperated from their group and needs safe passage home.  We are under a time crunch though, so they need to be home in less than two minutes.",
+    "Escort this idiot back to their home and let Peter know the job was completed.",
+    "This aint no daycare, thanks for taking care of that. Here is your reward."
+  ],
+  "ObjectiveText": "Lost VIP",
+  "FollowUpQuest": 401,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 100,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1.0
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    2
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 1,
+      "ObjectiveType": 9
+    }
+  ],
+  "QuestColor": -8388480,
+  "ReputationReward": 50,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

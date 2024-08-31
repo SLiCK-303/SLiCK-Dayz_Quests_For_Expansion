@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 38,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Plant cannabis seeds:",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionPlantSeed"
+    ],
+    "AllowedClassNames": [
+		"CP_CannabisSeedsSkunk",
+		"CP_CannabisSeedsBlue",
+		"CP_CannabisSeedsKush",
+		"CP_CannabisSeedsStardawg",
+		"CP_CannabisSeedsFuture",
+		"CP_CannabisSeedsS1",
+		"CP_CannabisSeedsNomad",
+		"CP_CannabisSeedsBlackFrost",
+		"Blackouts_CannabisSeedsMidnight_Express",
+		"Blackouts_CannabisSeedsAlbino",
+		"Blackouts_CannabisSeedsExodus",
+		"Blackouts_CannabisSeedsGanja_Mountain",
+		"Blackouts_CannabisSeedsDaxtal"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

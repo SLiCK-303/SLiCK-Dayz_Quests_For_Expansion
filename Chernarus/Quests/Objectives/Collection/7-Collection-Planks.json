@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Craft 10 Planks",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "WoodenPlank",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,78 @@
+{
+  "ConfigVersion": 22,
+  "ID": 814,
+  "Type": 1,
+  "Title": "Hunting Wild Boar",
+  "Descriptions": [
+    "Howdy, Partner!\r\n\r\nHow's your appetite for bacon, today?\r\n\r\nEveryone loves bacon!\r\n\r\nExcept those vegan types, I s’pose…\r\n\r\nKill me a Boar with your Crossbow and a Hunting Bolt\r\n\r\nAnywho, there's a fine boar a’roamin’ out North/West ‘round Ruby Ridge.\r\n\r\nBring me his hide and I'll pay you ₽1500.\r\n\r\nYou can keep the meat *winks*\r\n\r\nStraight shots, Partner!\r\n",
+    "Kill a Wild Boar with Crossbow\r\nAcquire a pristine Wild Boar pelt\r\n",
+    "Kill a Wild Boar with Crossbow\r\nAcquire a pristine Wild Boar pelt\r\n"
+  ],
+  "ObjectiveText": "Kill a Wild Boar to collect Pelt",
+  "FollowUpQuest": 813,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Crossbow_Autumn",
+      "Amount": 1
+    },
+    {
+      "ClassName": "Ammo_HuntingBolt",
+      "Amount": 20
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 600,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1
+  ],
+  "QuestTurnInIDs": [
+    1
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 24,
+      "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 24,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": -8355840,
+  "ReputationReward": 200,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 0
+}
